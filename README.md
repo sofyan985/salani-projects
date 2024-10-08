@@ -20,16 +20,6 @@ This project demonstrates a simple image carousel built using Bootstrap 5. The c
 2. **CSS Customization**: The CSS adds custom hover effects and styles the thumbnails.
 3. **JavaScript**: The JavaScript code adds functionality to navigate to a specific slide when a thumbnail is hovered.
 
-## Installation
 
-To use this project, follow these steps:
 
-### Prerequisites
 
-- [Node.js](https://nodejs.org/en/) (if you want to run a local server)
-
-### Steps
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/your-username/carousel-example.git
