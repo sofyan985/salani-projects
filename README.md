@@ -11,7 +11,7 @@ This project demonstrates a simple image carousel built using Bootstrap 5. The c
 
 ## Demo
 
-![Carousel Screenshot](![image](https://github.com/user-attachments/assets/6f4d5fa0-fd06-4b1a-85dd-a29211770ef1)
+![Carousel Screenshot](https://github.com/user-attachments/assets/6f4d5fa0-fd06-4b1a-85dd-a29211770ef1)
 
 
 ## How It Works
